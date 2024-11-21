@@ -1,5 +1,5 @@
-Time evolution of superposition of states. Set 1 shows the time evolution of a gaussian charge density in the QD system.
-Energies are given in $nm^{-2}$ and length are given in $nm$.
+Time evolution of distinct quantum states in a semiconductor quantum-dot molecule on a Mesa. Set 1 shows the time evolution of a gaussian charge density in the QD system.
+Every other video shows a superposition of different states. Energies are given in $nm^{-2}$ and length are given in $nm$.
 
 Corresponding publication can be found via 
 
