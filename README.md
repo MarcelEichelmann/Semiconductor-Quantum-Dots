@@ -1,5 +1,5 @@
 Time evolution of distinct quantum states in a semiconductor quantum-dot molecule on a Mesa. Video 1 shows the time evolution of a gaussian charge density in the QD system.
-Every other video shows a superposition of different states. Energies are given in $nm^{-2}$ and length are given in $nm$, $\hbar\equiv 1 \equiv M$.
+Every other video shows a superposition of different eigenstates. Energies are given in $nm^{-2}$ and lengths are given in $nm$, $\hbar\equiv 1 \equiv M$.
 
 Corresponding publication can be found via 
 
